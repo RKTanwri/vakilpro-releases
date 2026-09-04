@@ -465,23 +465,24 @@ Screenshots of the application will be added here as the interface develops.
 
 ### Dashboard
 
-*Add screenshot here*
+*<img width="960" height="540" alt="Screenshot 2026-09-03 183547" src="https://github.com/user-attachments/assets/387ed125-c83c-4ef1-89e5-8ac460105774" />
+*
 
 ### Case Management
 
-*Add screenshot here*
+<img width="960" height="540" alt="Screenshot 2026-09-03 183608" src="https://github.com/user-attachments/assets/f476111b-331e-4a25-86ec-29e38db6a0c3" />
 
 ### Hearings
 
-*Add screenshot here*
+<img width="960" height="540" alt="Screenshot 2026-09-03 183643" src="https://github.com/user-attachments/assets/9b4c9a93-9c31-44a1-8650-e100ee52a3c5" />
 
 ### Documents
 
-*Add screenshot here*
+<img width="960" height="540" alt="Screenshot 2026-09-03 183813" src="https://github.com/user-attachments/assets/195bfa5a-946b-4656-9e3a-2fda8e458933" />
 
 ### Client Management
 
-*Add screenshot here*
+<img width="960" height="540" alt="Screenshot 2026-09-03 183708" src="https://github.com/user-attachments/assets/ea991c68-b6ad-4555-9f01-1263c0f1b58c" />
 
 ---
 
